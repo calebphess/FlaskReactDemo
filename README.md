@@ -28,7 +28,6 @@ npm start
 **TODO**
 
 ## TODO ##
-- get the backend running
 - get split the backend into appropriate sub folders
 - decide figure out how to build react code into the **static** folder 
     - *probably do this with a script in the ***deployment*** folder*
